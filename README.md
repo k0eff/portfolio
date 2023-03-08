@@ -20,7 +20,7 @@ My skills include:
 - Javascript Fullstack (+++++)
 - Typescript (+++)
 - Python (+++)
-- Golang (++)
+- Golang (+++)
 - Java (+)
 - PHP (++++) (_not interested anymore_)
 #### Soft skills:
@@ -35,12 +35,12 @@ My skills include:
 ## Tech Portfolio
 
 You may be interested in checking out some of my past projects:
-- [currencies-api](https://github.com/k0eff/currencies-api)
-- [valuta-service](https://github.com/k0eff/valuta-service)
-- [ecollect-example-api-client-implementation](https://github.com/k0eff/ecollect-example-api-client-implementation)
-- [mt940-parserLib](https://github.com/k0eff/mt940-parserLib)
-- [aks-auto-upgrade](https://github.com/k0eff/aks-auto-upgrade)
-- [kube-safe-drainer](https://github.com/k0eff/kube-safe-drainer)
-- [az-price-scraper](https://github.com/k0eff/az-price-scraper)
+- [currencies-api](https://github.com/k0eff/currencies-api) (NodeJS Javascript)
+- [valuta-service](https://github.com/k0eff/valuta-service) (NodeJS TypeScript)
+- [ecollect-example-api-client-implementation](https://github.com/k0eff/ecollect-example-api-client-implementation) (Java)
+- [mt940-parserLib](https://github.com/k0eff/mt940-parserLib) (NodeJS Javascript)
+- [aks-auto-upgrade](https://github.com/k0eff/aks-auto-upgrade) (Shell)
+- [kube-safe-drainer](https://github.com/k0eff/kube-safe-drainer) (Python)
+- [az-price-scraper](https://github.com/k0eff/az-price-scraper) (Python)
 
 Security note: each of these projects is part of more complicated work however it has been anonymised and simplified in order to serve for portfolio and demonstration purposes. Actual work contains more functionality tailored to fit business purposes and is inappropriate for public.  
